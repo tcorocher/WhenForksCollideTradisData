@@ -1,0 +1,4 @@
+Sequence files for each library after the following:
+Trim up to 20bp after 77th bp
+Filter quality (40)
+Remove Transposon Adapter
