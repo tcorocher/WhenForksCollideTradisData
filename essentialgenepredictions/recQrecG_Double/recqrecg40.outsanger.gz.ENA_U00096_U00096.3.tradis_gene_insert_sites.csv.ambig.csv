@@ -1,0 +1,6 @@
+locus_tag,gene_name,ncrna,start,end,strand,read_count,ins_index,gene_length,ins_count,fcn
+b0177,bamA,0,197928,200360,1,1,0.000586510263929619,2433,1,outer membrane protein assembly factor BamA
+b2231,gyrA,0,2336793,2339420,-1,32,0.000543478260869565,2628,1,DNA gyrase subunit A
+b3482,rhsB,0,3619192,3623427,1,10,0.000337154416722859,4236,1,rhs element protein RhsB
+b3854,rrlA,0,4037519,4040423,1,12,0.000491400491400491,2905,1,
+b4258,valS,0,4480982,4483837,-1,31,5e-04,2856,1,valine--tRNA ligase
