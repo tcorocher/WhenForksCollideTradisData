@@ -1,0 +1,4 @@
+The final extension on the file name is the descriptor for what information is in the list 
+.essen is essential genes predicted
+.all is every gene and count in that gene
+.ambig are the genes that the script can’t determine are essential or not
