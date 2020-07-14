@@ -1,0 +1,2 @@
+plasmid bam coverage (pZJ73) using the following script
+bamCoverage -v  -bs 100 -b <bam_file_name> -of bedgraph
